@@ -1,0 +1,243 @@
+Then I will make some statements, for each of them you must tell me how you agree with them with a scale of 1 to 5 in which:
+
+1 means totally disagree
+
+2 means something at odds
+
+3 means neither agree nor disagree
+
+4 means I agree somewhat
+
+5 means I totally agree.
+
+
+Question number 1,
+
+I am the soul of the party.
+
+
+Question number 2,
+
+I feel little empathy for others.
+
+
+Question number 3,
+
+I am always prepared.
+
+
+Question number 4,
+
+I get stressed easily.
+
+
+Question number 5,
+
+I have an extensive vocabulary.
+
+
+Question number 6,
+
+I don `t talk much.
+
+
+Question number 7,
+
+I feel interest in people.
+
+
+Question number 8,
+
+I leave my stuff lying around.
+
+
+Question number 9,
+
+I feel relaxed most of the time.
+
+
+Question number 10,
+
+I have difficulty understanding abstract ideas.
+
+
+Question number 11,
+
+I feel comfortable when I am with people.
+
+
+Question number 12,
+
+Insult people.
+
+
+Question number 13,
+
+I pay attention to details.
+
+
+Question number 14,
+
+I worry about things.
+
+
+Question number 15,
+
+I have a vivid imagination.
+
+
+Question number 16,
+
+I stay out of things.
+
+
+Question number 17,
+
+I put myself in the place of others.
+
+
+Question number 18,
+
+I'm a mess.
+
+
+Question number 19,
+
+I rarely feel sad.
+
+
+Question number 20,
+
+I am not interested in abstract ideas.
+
+
+Question number 21,
+
+I start the conversations.
+
+
+Question number 22,
+
+I am not interested in other people's problems.
+
+
+Question number 23,
+
+I do everyday things with ease.
+
+
+Question number 24,
+
+I get annoyed easily.
+
+
+Question number 25,
+
+I have excellent ideas.
+
+
+Question number 26,
+
+I am of few words.
+
+
+Question number 27,
+
+I am sensible.
+
+
+Question number 28,
+
+I usually forget to leave things in place.
+
+
+Question number 29,
+
+I get annoyed easily.
+
+
+Question number 30,
+
+I have no good imagination.
+
+
+Question number 31,
+
+I talk to a lot of people at parties.
+
+
+Question number 32,
+
+I'm not very interested in people.
+
+Question number 33,
+
+I like order.
+
+Question number 34,
+
+Change of mood frequently.
+
+Question number 35,
+
+It is easy for me to understand things.
+
+Question number 36,
+
+I don't like being the center of attention.
+
+Question number 37,
+
+I take time for others.
+
+Question number 38,
+
+I avoid my responsibilities.
+
+Question number 39,
+
+I have frequent mood swings.
+
+Question number 40,
+
+I use difficult words.
+
+Question number 41,
+
+I don't mind being the center of attention.
+
+Question number 42,
+
+I feel the emotions of others.
+
+Question number 43,
+
+I follow a predefined schedule.
+
+Question number 44,
+
+I get irritated easily.
+
+Question number 45,
+
+I spend time thinking about things.
+
+Question number 46,
+
+I don't speak when there are unknown people around me.
+
+Question number 47,
+
+I make people feel comfortable.
+
+Question number 48,
+
+I am demanding in my work.
+
+Question number 49,
+
+I feel sad often.
+
+Question number 50,
+
+I have many ideas.
