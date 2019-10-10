@@ -1,6 +1,7 @@
 import time
 import sys
-import oceanreduced as ocean
+# import oceanreduced as ocean
+import OCEANv2 as ocean
 import emotionAPI as emotion
 import takephoto
 import NaoResponse as naoResponse
@@ -60,7 +61,7 @@ class FaceDetModule(ALModule):
         tts.say("face detected success")
 
         try:
-            persona = value[1][0][1][2]
+            persona = value[1][0][1][2] #see if this person is exist
             if persona == "":
                 valOcean = ocean.main()
                 #Preguntar nombre persona
@@ -94,6 +95,8 @@ class FaceDetModule(ALModule):
                 if values == []:
                     tts.say("the photo is too blurry to detect emotion")
                 else:
+                    print(emotions)
+                    print(values)
                     x = max(values)
                     pos = values.index(x)
                     print(emotions[pos]+": "+str(x))

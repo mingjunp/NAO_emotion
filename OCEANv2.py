@@ -38,8 +38,10 @@ def calcOCEAN(answers):
             Answers.append(3)
         elif i=="four":
             Answers.append(4)
-        else:
+        elif i== "five":
             Answers.append(5)
+        else:
+            Answers.append(0)
     oceanValue = calcOCEANValue(Answers)
     return oceanValue
 
