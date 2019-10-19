@@ -1,3 +1,7 @@
+Hi, I am Jack.
+
+I would like to know a little bit about you.
+
 Then I will make some statements, for each of them you must tell me how you agree with them with a scale of 1 to 5 in which:
 
 1 means totally disagree

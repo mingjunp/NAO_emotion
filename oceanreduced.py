@@ -34,7 +34,7 @@ def askQuestion(preg,answers):
 
 def nextQuestion(preg,answers):
     preg+=1
-    if preg<=5:
+    if preg<=10:
         askQuestion(preg,answers)
     else:
         tts.say("Thank you for answering these questions.")
@@ -61,14 +61,14 @@ def calcOCEAN(answers):
     return oceanValue
 
 def calcOCEANValue(Answer):
-    E = 20+Answer[1]
-    A = 14-Answer[2]
+    E = 20+Answer[1]-Answer[6]
+    A = 14-Answer[2]+Answer[7]
 
-    C = 14+Answer[3]
+    C = 14+Answer[3]-Answer[8]
 
-    N = 38-Answer[4]
+    N = 38-Answer[4]+Answer[9]
 
-    O = 8+Answer[5]
+    O = 8+Answer[5]-Answer[10]
 
     return E,A,C,N,O
 
