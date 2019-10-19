@@ -1,7 +1,7 @@
 import time
 import sys
-# import oceanreduced as ocean
-import OCEANv2 as ocean
+import oceanreduced as ocean
+#import OCEANv2 as ocean
 import emotionAPI as emotion
 import takephoto
 import NaoResponse as naoResponse

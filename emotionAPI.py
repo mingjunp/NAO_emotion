@@ -4,7 +4,7 @@ import httplib, urllib, base64, ast, time, json
 headers = {
     # Usage of octet-stream to allow the image to come from a file and not a URL
     'Content-type': 'application/octet-stream',
-    'Ocp-Apim-Subscription-Key': 'f89f8fd060e44844b6740d86e6b1207c',
+    'Ocp-Apim-Subscription-Key': 'f7fc21ca05fc4150b409febc61151943',
 }
 
 params = urllib.urlencode({
